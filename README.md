@@ -7,4 +7,5 @@ The Student Examination Result Management System (SRMS) is designed to automate 
 With the Student Examination Result Management System:
 
 • Administrators can add new students, batches, academic years, subjects, and assign teachers to subjects.
+
 • Faculty/Teachers can enter and update marks for students, with the system automatically calculating grades based on institutional rules.
